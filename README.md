@@ -1,6 +1,6 @@
 # Agentic Decision-Making 
 
-Agentic decision-making focuses on creating autonomous systems capable of reasoning, planning, and executing actions with minimal human intervention. This field combines various techniques to enable AI agents to make informed decisions in complex, dynamic environments.
+Agentic decision-making focuses on creating autonomous systems capable of reasoning, planning, and executing actions with minimal human intervention. This combines various techniques to enable AI agents to make informed decisions in complex, dynamic environments.
 
 ![Screenshot_2025-02-13_at_7 50 15_AM-removebg-preview](https://github.com/user-attachments/assets/158465cf-ae20-44f9-ab55-709080160372)
 
